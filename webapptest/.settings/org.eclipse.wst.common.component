@@ -2,7 +2,7 @@
     <wb-module deploy-name="webapptest">
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/test"/>
         <property name="context-root" value="webapptest"/>
         <property name="java-output-path" value="/webapptest/target/classes"/>
     </wb-module>
